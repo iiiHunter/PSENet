@@ -97,3 +97,9 @@ sh eval_ctw1500.sh
   year={2019}
 }
 ```
+
+## Added by Sol
+2020/02/21: 
+cd pse && make;
+Remember to use python2.7 that compiled with UCS2. 
+If not, you should recompile with UCS2 enncoding method. (./configure --enable-unicode=ucs4)
